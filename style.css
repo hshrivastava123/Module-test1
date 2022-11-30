@@ -1,0 +1,51 @@
+#header-text{
+    font-weight: 700;
+    font-size: 130px;
+}
+
+#header-img{
+    width:734;
+    height: 395px;
+    margin-top:180px;
+}
+
+#about-us-img{
+    width:572;
+    height: 726px;
+}
+
+#right-about-us{
+    padding-left:120px;
+}
+
+.about-us{
+    padding-bottom: 20px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.slider{
+    margin-right:20px;
+}
+
+.line
+{
+    align-items: center;
+    width:90%;
+    height:10px;
+    border-width:10px; 
+    color:rgba(0, 0, 0, 0.808) !important; 
+    background-color:black !important;
+}
+
+input { 
+   width:50% !important;
+   display:flex;
+   justify-items: center !important;
+}
+
+.button{
+    width: 10% !important;
+    margin-left:479px;
+    
+}
